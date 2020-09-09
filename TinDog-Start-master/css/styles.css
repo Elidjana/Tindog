@@ -1,0 +1,166 @@
+body {
+  font-family: 'Montserrat';
+}
+
+#title {
+  background-image:repeating-linear-gradient(#bb596b ,  #E29587 , #ffc4a3);
+  color: #fff;
+}
+
+.container-fluids {
+  padding: 3% 10%;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Ubuntu";
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+.h2pricing{
+  font-family: "Ubuntu";
+  color: black;
+  font-size: 1.5rem;
+  line-height: 1.5;
+
+}
+h3{
+  font-family: "Montserrat-bold", sans-serif;
+  font-weight: bolder;
+}
+.em{
+  color: #fff;
+}
+
+.navbarr {
+
+  padding-bottom: 4.5rem;
+}
+
+.overnavbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+.overnavbar-brand:hover{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: underline;
+}
+
+.overnavbar-brand:hover {
+  text-decoration: none;
+  color: rgba(255,255,255,0.5);
+}
+.nav-items{
+  padding: 0 18px;
+}
+.nav-links{
+
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+  color: #fff;
+}
+.nav-links:hover{
+  text-decoration: none;
+    color: rgba(255,255,255,0.5);
+}
+.downloadbtn{
+ background-color: rgba(0,0,0,0.5);
+ color: #fff;
+  margin: 5% 3% 5% 0;
+  padding: 2% 3%;
+  border: 10px;
+  border-color: #000;
+  border-radius: 5px;
+}
+.downloadbtn:hover{
+color: rgba(255,255,255,0.5);}
+
+.downloadbtn1{
+ background-color: white;
+ color: black;
+  margin: 5% 3% 5% 0;
+  padding: 2% 3%;
+  border: 10px;
+  border-color: #000;
+  border-radius: 5px;
+}
+.downloadbtn1:hover{
+color: rgba(255,255,255,0.5);}
+
+.persep{
+perspective: 1000px;
+}
+.iphone{
+  position: relative;
+   width: 35%;
+   float:none;
+   margin-left: 15%;
+   transform: rotateX(25deg) rotateZ(50deg) rotateY(-25deg);
+}
+#featuress{
+  padding: 7% 15%;
+}
+.fas{
+  color: #bb596b;
+  margin-bottom: 1.5rem;
+}
+.fas:hover{
+  color: #ff4c68;
+}
+.feature-box{
+  text-align: center;
+
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #E29587;
+  color: #000;
+}
+.testimonialimg{
+  width: 20%;
+  margin: 20px;
+  border-radius: 100%;
+}
+
+#press{
+  background-color: #E29587;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px 20px;
+}
+.carousel-item{
+  height: 500px;
+    padding: 3% 15%;
+}
+
+#pricing{
+text-align: center;
+padding: 100px;
+}
+
+#cta{
+ padding: 100px;
+background-color: #E29587;
+text-align: center;
+}
+
+#footer{
+  padding: 50px;
+  text-align: center;
+}
